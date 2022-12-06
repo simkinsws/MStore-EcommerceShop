@@ -459,3 +459,4 @@ API/Data/Migrations/20221130121251_FixDatabase.Designer.cs
 API/Data/Migrations/20221130131536_ProductTableReady.cs
 API/Data/Migrations/20221130131536_ProductTableReady.Designer.cs
 API/appsettings.json
+CLIENT/node_modules
